@@ -6,7 +6,7 @@
         <div class="loginList">
           <p>尚品汇欢迎您！</p>
           <p v-if="!userInfo.name">
-            <span>请</span>
+            <span>请1232312321321</span>
             <router-link to="/login">登录</router-link>
             <router-link to="/register" class="register">免费注册</router-link>
           </p>
